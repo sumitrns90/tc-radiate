@@ -1,6 +1,6 @@
 ﻿var organizationSettings = {
     //The url that points to team city
-    teamCityUrl: 'https://todo.edit.this.url.invalid',
+    teamCityUrl: 'teamcity-2.dts.fm.rbsgrp.net/',
 
     //Only show builds for branches that satisfy the predicate
     branchFilter: function(branch) {
